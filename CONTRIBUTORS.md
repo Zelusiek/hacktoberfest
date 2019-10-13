@@ -2423,6 +2423,11 @@ Noida
 - Bio: Reverse Engineer
 - GitHub: [xenocidewiki] (https://github.com/xenocidewiki)
 
+#### Name: [Zelusiek] (https://github.com/Zelusiek)
+- Place: Pennsylvaina
+- Bio: I love making programs and creating other things for people!
+- GitHub: [Zelusiek] (https://github.com/zelusiek)
+
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
